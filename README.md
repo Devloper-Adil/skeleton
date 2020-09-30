@@ -1,4 +1,4 @@
-# Website Skeleton
+#WordPress Website Skeleton
 
 Work in progress! But already here for your inspiration.
 Framework for building and deploying WordPress websites
